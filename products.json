@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Смартфон Premium",
+    "description": "Новейшая модель с лучшей камерой на рынке и extended RAM",
+    "price": 25990,
+    "image": "from-blue-100 to-purple-100"
+  },
+  {
+    "name": "Ноутбук Pro",
+    "description": "Мощный ноутбук с процессором i9 и RTX 4080 для работы и игр",
+    "price": 149990,
+    "image": "from-green-100 to-blue-100"
+  },
+  {
+    "name": "Наушники Elite",
+    "description": "Беспроводные наушники с шумоподавлением и 30ч работы",
+    "price": 24990,
+    "image": "from-purple-100 to-pink-100"
+  },
+  {
+    "name": "Умные часы V2",
+    "description": "Мониторинг здоровья, 50 спортивных режимов, защита от воды",
+    "price": 18490,
+    "image": "from-yellow-100 to-orange-100"
+  },
+  {
+    "name": "Планшет UltraTab",
+    "description": "Тонкий корпус, OLED-дисплей и поддержка стилуса",
+    "price": 37990,
+    "image": "from-cyan-100 to-indigo-100"
+  },
+  {
+    "name": "Монитор 4K Vision",
+    "description": "Ультрачёткий 32-дюймовый экран с 99% sRGB",
+    "price": 48990,
+    "image": "from-gray-100 to-slate-100"
+  },
+  {
+    "name": "Саундбар BassX",
+    "description": "Глубокий бас, Dolby Atmos и Bluetooth 5.1",
+    "price": 21990,
+    "image": "from-red-100 to-pink-100"
+  },
+  {
+    "name": "Роутер MaxStream",
+    "description": "Wi-Fi 6, покрытие до 200 м² и поддержка 200 устройств",
+    "price": 12990,
+    "image": "from-teal-100 to-green-100"
+  }
+]
