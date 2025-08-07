@@ -10,7 +10,7 @@ const App = () => {
 
   // Загрузка товаров (укажи свой путь к products.json)
   useEffect(() => {
-    fetch("/products.json")
+    fetch("./products.json")
       .then((res) => res.json())
       .then(setProducts)
       .catch(() => {
