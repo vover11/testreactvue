@@ -3,7 +3,7 @@
     "name": "Смартфон Premium",
     "description": "Новейшая модель с лучшей камерой на рынке и extended RAM",
     "price": 25990,
-    "image": "from-blue-100 to-purple-100"
+    "image": "./src/assets/4599891.jpg"
   },
   {
     "name": "Ноутбук Pro",
