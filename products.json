@@ -1,50 +1,56 @@
 [
   {
-    "name": "Смартфон Premium",
-    "description": "Новейшая модель с лучшей камерой на рынке и extended RAM",
-    "price": 25990,
-    "image": "images/4599891.jpg"
+    "name": "Разработка сайта под ключ",
+    "description": "Полный цикл создания сайта: дизайн, верстка, программирование, SEO-оптимизация",
+    "price": 50000,
+    "image": "from-blue-100 to-indigo-100"
   },
   {
-    "name": "Ноутбук Pro",
-    "description": "Мощный ноутбук с процессором i9 и RTX 4080 для работы и игр",
-    "price": 149990,
-    "image": "from-green-100 to-blue-100"
-  },
-  {
-    "name": "Наушники Elite",
-    "description": "Беспроводные наушники с шумоподавлением и 30ч работы",
-    "price": 24990,
+    "name": "Интернет-магазин",
+    "description": "Разработка современного интернет-магазина с платежной системой и CRM",
+    "price": 120000,
     "image": "from-purple-100 to-pink-100"
   },
   {
-    "name": "Умные часы V2",
-    "description": "Мониторинг здоровья, 50 спортивных режимов, защита от воды",
-    "price": 18490,
+    "name": "Корпоративный сайт",
+    "description": "Создание презентабельного сайта для бизнеса с адаптивным дизайном",
+    "price": 75000,
+    "image": "from-green-100 to-teal-100"
+  },
+  {
+    "name": "Landing Page",
+    "description": "Одностраничник с высокой конверсией для рекламных кампаний",
+    "price": 30000,
     "image": "from-yellow-100 to-orange-100"
   },
   {
-    "name": "Планшет UltraTab",
-    "description": "Тонкий корпус, OLED-дисплей и поддержка стилуса",
-    "price": 37990,
-    "image": "from-cyan-100 to-indigo-100"
-  },
-  {
-    "name": "Монитор 4K Vision",
-    "description": "Ультрачёткий 32-дюймовый экран с 99% sRGB",
-    "price": 48990,
-    "image": "from-gray-100 to-slate-100"
-  },
-  {
-    "name": "Саундбар BassX",
-    "description": "Глубокий бас, Dolby Atmos и Bluetooth 5.1",
-    "price": 21990,
+    "name": "Веб-приложение",
+    "description": "Разработка сложного веб-приложения с базой данных и API",
+    "price": 200000,
     "image": "from-red-100 to-pink-100"
   },
   {
-    "name": "Роутер MaxStream",
-    "description": "Wi-Fi 6, покрытие до 200 м² и поддержка 200 устройств",
-    "price": 12990,
+    "name": "Доработка сайта",
+    "description": "Оптимизация, добавление функционала, исправление ошибок",
+    "price": 25000,
+    "image": "from-gray-100 to-slate-100"
+  },
+  {
+    "name": "UX/UI Дизайн",
+    "description": "Проектирование удобного и современного интерфейса",
+    "price": 40000,
+    "image": "from-cyan-100 to-blue-100"
+  },
+  {
+    "name": "Чат-бот",
+    "description": "Разработка интеллектуального чат-бота для сайта или мессенджеров",
+    "price": 45000,
+    "image": "from-teal-100 to-green-100"
+  },
+  {
+    "name": "Техническая поддержка",
+    "description": "Обслуживание сайта, обновления, резервное копирование",
+    "price": 15000,
     "image": "from-teal-100 to-green-100"
   }
 ]
