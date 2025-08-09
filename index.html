@@ -7,128 +7,17 @@
   <link href="https://vjs.zencdn.net/7.17.0/video-js.css" rel="stylesheet">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=DotGothic16&family=Unbounded:wght@200..900&display=swap"
+  <link
+    href="https://fonts.googleapis.com/css2?family=DotGothic16&family=Unbounded:wght@200..900&family=Victor+Mono:ital,wght@0,100..700;1,100..700&display=swap"
     rel="stylesheet">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Album shop</title>
-  <script type="module" crossorigin src="/testreactvue/assets/index-BBkYo9U5.js"></script>
-  <link rel="stylesheet" crossorigin href="/testreactvue/assets/index-ptMoqGP8.css">
+  <script type="module" crossorigin src="/testreactvue/assets/index-BNRuQYgA.js"></script>
+  <link rel="stylesheet" crossorigin href="/testreactvue/assets/index-DvEnSc7d.css">
 </head>
-<style>
-  @font-face {
-    font-family: "Catalogue";
-    src: url("/testreactvue/assets/Catalogue-Regular-O20m-yg9.otf") format("opentype");
-    font-weight: normal;
-    font-style: normal;
-  }
 
-  .logo {
-    font-family: "Catalogue";
-    color: #A4E974;
-    font-weight: bold;
-  }
-
-  html,
-  body {
-    margin: 0;
-    padding: 0;
-    width: 100%;
-    height: 100%;
-    overflow-x: hidden;
-    font-family: "Unbounded", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 200;
-    font-style: normal;
-    color: white;
-  }
-
-  p {
-    font-family: "DotGothic16", sans-serif;
-    font-weight: 900;
-    font-style: normal;
-  }
-
-  .horizontal-scroll {
-    display: flex;
-    flex-direction: row;
-    height: 100vh;
-    width: max-content;
-  }
-
-  .section {
-    width: 100vw;
-    height: 100vh;
-    flex-shrink: 0;
-
-    /* justify-content: center;
-    align-items: center; */
-    scroll-snap-align: start;
-  }
-
-  .container {
-    scroll-snap-type: x mandatory;
-    overflow-x: scroll;
-    overflow-y: hidden;
-    height: 100vh;
-    width: 100vw;
-    max-width: 100% !important;
-    -webkit-overflow-scrolling: touch;
-  }
-
-  .container::-webkit-scrollbar {
-    display: none;
-  }
-
-  .video-background {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100vh;
-    overflow: hidden;
-    z-index: -1;
-    /* чтобы видео было под всем остальным */
-  }
-
-  .video-background video {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    filter: blur(8px);
-    transform: scale(1.05);
-    /* чтобы края не были видны после blur */
-  }
-
-
-  /* Стили для секции с товарами */
-  .products-section {
-    align-items: flex-start;
-    padding-top: 2rem;
-    overflow-y: auto;
-  }
-
-  .products-container {
-    width: 100%;
-    max-height: calc(100vh - 6rem);
-    overflow-y: auto;
-    padding-bottom: 2rem;
-  }
-
-  /* Скрыть скроллбар для Chrome, Safari и Opera */
-  .products-container::-webkit-scrollbar {
-    display: none;
-  }
-
-  /* Скрыть скроллбар для IE, Edge и Firefox */
-  .products-container {
-    -ms-overflow-style: none;
-    /* IE и Edge */
-    scrollbar-width: none;
-    /* Firefox */
-  }
-</style>
 
 <body>
   <div id="root"></div>
